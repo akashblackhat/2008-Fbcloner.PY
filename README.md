@@ -12,13 +12,22 @@
        
       😈 4. apt install python
        
-      😈5. apt install python2
+      😈 5. apt install python2
        
       😈 6. pip2 install requests
        
       😈 7. pip2 install mechanize
        
-      😈 8. git clone 
+      😈 8. git clone https://github.com/akashblackhat/2008-Fbcloner.PY.git
       
-      😈 9. cd 
+      😈 9. ls
+      
+      😈 9. cd 2008-Fbcloner.PY
+      
+      😈10. ls
+      
+      😈11. python cd 2008-Fbcloner.PY
+  ! bathut aney token & cookies (clone fb idz)
+      
+      
 
