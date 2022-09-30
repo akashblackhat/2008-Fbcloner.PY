@@ -1,5 +1,6 @@
 # INSTALL TREMUX 
      👾Hacker👾
+    🎁 bathut aney token & cookies (clone f idz)🎁
 ![1664534775811](https://user-images.githubusercontent.com/88341460/193254090-34c900fe-179b-4ccf-840c-c87f93cb2f07.jpg)
 
 ♦warning install one by one all pkg 👇
@@ -27,7 +28,19 @@
       😈10. ls
       
       😈11. python cd 2008-Fbcloner.PY
-  ! bathut aney token & cookies (clone fb idz)
+ 🎁 bathut aney token & cookies (clone fb idz)🎁
+ 
+ # kali linux
+       😈 1. git clone https://github.com/akashblackhat/2008-Fbcloner.PY.git
+       😈 2. ls
+       😈 3. cd 2008-Fbcloner.PY
+       😈 4. ls 
+       😈 5. python 2008-Fbcloner.PY
+      enjoy hackers 
+       
+       
+       
+ 
       
       
 
