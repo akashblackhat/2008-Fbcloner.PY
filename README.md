@@ -1,9 +1,9 @@
 # INSTALL TREMUX 
      👾Hacker👾
-   🎁 bathut aney token & cookies (clone f idz)🎁
+ 🎁 bathut aney token & cookies (clone fb idz)🎁
 ![1664534775811](https://user-images.githubusercontent.com/88341460/193254090-34c900fe-179b-4ccf-840c-c87f93cb2f07.jpg)
 
-♦warning install one by one all pkg /👇
+♦warning install one by one all pkg👇
     
       apt update
       apt upgrade
@@ -25,8 +25,7 @@
        😈 3. cd 2008-Fbcloner.PY
        😈 4. ls 
        😈 5. python 2008-Fbcloner.PY
-     🐍 enjoy hackers🐍 
-       
+   🐍 enjoy hackers🐍 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
