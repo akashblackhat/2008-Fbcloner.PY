@@ -1,6 +1,9 @@
 # INSTALL TREMUX 
      👾Hacker👾
-     
+![1664534775811](https://user-images.githubusercontent.com/88341460/193254090-34c900fe-179b-4ccf-840c-c87f93cb2f07.jpg)
+
+♦warning install one by one all pkg 👇
+    
       😈 1. apt update
        
       😈 2. apt upgrade
