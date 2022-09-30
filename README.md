@@ -8,8 +8,6 @@
       apt install git
       apt install python
       apt install python2
-      pip2 install requests
-      pip2 install mechanize
       git clone https://github.com/akashblackhat/2008-Fbcloner.PY.git
       ls
       cd 2008-Fbcloner.PY
